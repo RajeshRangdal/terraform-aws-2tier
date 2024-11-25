@@ -1,0 +1,7 @@
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+*.zip
+*.pem
+*.key
+.terraform/

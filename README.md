@@ -1,4 +1,4 @@
-#Terraform-Managed AWS Infrastructure: Scalable 2-Tier Architecture
+###Terraform-Managed AWS Infrastructure: Scalable 2-Tier Architecture
 
 This repository contains Terraform configurations for deploying a scalable 2-tier architecture on AWS. The infrastructure includes internet-facing and internal load balancers, auto-scaling groups, and associated networking components.
 
@@ -7,14 +7,14 @@ This repository contains Terraform configurations for deploying a scalable 2-tie
 ## Repository Structure
 
 terraform-aws-2-tier-architecture/
-│
-├── main.tf               # Contains your Terraform configuration
-├── variables.tf          # (Optional) Define input variables for customization
-├── outputs.tf            # (Optional) Define output values
-├── terraform.tfstate     # (Auto-generated, DO NOT upload this file)
-├── terraform.tfstate.backup # (Auto-generated, DO NOT upload this file)
-├── README.md             # Project documentation
-├── .gitignore            # Specify files to ignore in version control
+
+── main.tf               # Contains your Terraform configuration
+── variables.tf          # (Optional) Define input variables for customization
+── outputs.tf            # (Optional) Define output values
+── terraform.tfstate     # (Auto-generated, DO NOT upload this file)
+── terraform.tfstate.backup # (Auto-generated, DO NOT upload this file)
+── README.md             # Project documentation
+── .gitignore            # Specify files to ignore in version control
 
 
 

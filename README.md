@@ -1,4 +1,4 @@
-###Terraform-Managed AWS Infrastructure: Scalable 2-Tier Architecture
+Terraform-Managed AWS Infrastructure: Scalable 2-Tier Architecture
 
 This repository contains Terraform configurations for deploying a scalable 2-tier architecture on AWS. The infrastructure includes internet-facing and internal load balancers, auto-scaling groups, and associated networking components.
 
